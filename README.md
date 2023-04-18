@@ -8,5 +8,5 @@ Springboot 2.7
 Java 11
 
 ## Resources
-https://www.youtube.com/watch?v=vY7c7k8xmKE
-https://stackoverflow.com/questions/58022282/spring-boot-cannot-start-with-aws-starter-dependency
+- https://www.youtube.com/watch?v=vY7c7k8xmKE
+- https://stackoverflow.com/questions/58022282/spring-boot-cannot-start-with-aws-starter-dependency
